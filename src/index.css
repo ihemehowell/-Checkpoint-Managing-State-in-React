@@ -87,6 +87,10 @@ button:hover{
   color: #111;
 }
 
+.task-form button:hover {
+  color: #f4f4f4;
+}
+
 .edit-form {
   display: flex;
   flex-direction: column;
